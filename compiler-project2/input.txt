@@ -1,0 +1,65 @@
+import Nothing
+import Nothing2
+import Nose
+
+class Human(Nothing,Nothing2){
+    Nose nose
+    Hand[2] hands
+    Leg[2] legs
+    int[3] ints
+    bool[6] ints
+    int calories
+    bool calories
+    bool isHungry
+    Drink water
+    Food food
+    def Human (Nose n){
+        self.nose = n
+    }
+    def Voice speak() {
+        Drink water
+        Voice voice
+        int voice
+        eat(sth, a)
+        return voice
+
+    }
+
+    def void work(int g, string felan) {
+    }
+
+    def Food speak(){
+        int a = b + c
+        f[5] = j
+        string s
+        work(a, s)
+        while (self.isHungry) {
+            Food newFood = Food()
+            int h
+            if(1==1){
+                int y
+            }else{
+                int x
+            }
+            eat(newFood, h)
+            self.isHungry = self.checkIsHungry()
+        }
+        return h
+    }
+    def void eat (Food food,int c){
+        calories += c
+        newFood = food
+        Drink water
+
+        while (self.isHungry) {
+            Food newFood = Food()
+            int h
+            if (1==1) {
+                int a
+            }
+            eat(newFood, h)
+            self.isHungry = self.checkIsHungry()
+        }
+        return sth
+    }
+}
